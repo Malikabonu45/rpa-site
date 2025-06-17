@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RPA-Автоматизация</title>
+  <style>
+    body { font-family: sans-serif; padding: 40px; text-align: center; }
+    h1 { font-size: 2em; }
+    a.button { display: inline-block; margin-top: 20px; padding: 10px 20px; background: #007BFF; color: white; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Автоматизация бизнес-процессов</h1>
+  <p>RPA с использованием UiPath, Power Automate и др.</p>
+  <a href="mailto:rpa.automation1992@gmail.com" class="button">Связаться со мной</a>
+</body>
+</html>
